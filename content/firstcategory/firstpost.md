@@ -13,3 +13,5 @@ An attachment
 ![Nice picture](../attachments/firstpost/firstpicture.jpg)
 
 And a [Link to Second Post](../secondpost/).
+
+New Text
